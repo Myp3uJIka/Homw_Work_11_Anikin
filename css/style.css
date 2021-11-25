@@ -30,8 +30,8 @@ a {
 }
 .col {
     flex: auto;
-    margin-right: 30px;
-    margin-bottom: 30px;
+    margin-right: 20px;
+    margin-bottom: 20px;
 }
 
 
@@ -93,7 +93,7 @@ a {
 /* Страничка популярного */
 
 .cover {
-
+    width: 150px;
 }
 
 /* Страничка подписки  */
