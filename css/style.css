@@ -26,10 +26,12 @@ a {
 /* Колонки */
 
 .row {
-
+    display: flex;
 }
 .col {
-
+    flex: auto;
+    margin-right: 30px;
+    margin-bottom: 30px;
 }
 
 
