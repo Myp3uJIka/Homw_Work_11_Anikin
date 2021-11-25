@@ -130,7 +130,7 @@ a {
 }
 
 .tag {
-
+    color: #4169E1;
 }
 
 /* Страничка популярного */
@@ -163,4 +163,9 @@ a {
     padding-top: 10px;
     padding-bottom: 10px;
     text-decoration: none;
+}
+
+input[type=checkbox] {
+    transform: scale(1.4);
+    margin-right: 7px;
 }
