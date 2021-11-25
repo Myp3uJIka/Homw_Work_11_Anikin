@@ -40,7 +40,7 @@ a {
 }
 
 .button {
-
+    background-color: #554AF0;
 }
 
 /* Потом специальные правила по страничкам */
@@ -48,8 +48,14 @@ a {
 /* Login*/
 
 .input-login {
-
-
+    border-color: #EBDCF9;
+    border-width: 1px;
+    border-radius: 6px;
+    width: 100%;
+    margin-bottom: 16px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 8px;
 }
 
 
