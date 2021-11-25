@@ -163,9 +163,43 @@ a {
     padding-top: 10px;
     padding-bottom: 10px;
     text-decoration: none;
+    margin-right: 10px;
 }
 
 input[type=checkbox] {
     transform: scale(1.4);
     margin-right: 7px;
+}
+
+/* Страничка подписки №2  */
+
+.in_month {
+    font-size: 18px;
+    border-radius: 4px;
+    background-color: #E1F5EA;
+    margin-top: 10px;
+    margin-bottom: 10;
+    padding: 14px;
+}
+
+.in_year{
+    font-size: 18px;
+    border-radius: 4px;
+    background-color: #EBDCF9;
+    margin-top: 10px;
+    margin-bottom: 10;
+    padding: 14px;
+}
+
+.button_subscription {
+    width: 65%;
+    border-width: 0px;
+    border-radius: 4px;
+    background-color: #554AF0;
+    color: white;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 25px;
 }
