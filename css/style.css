@@ -40,7 +40,14 @@ a {
 }
 
 .button {
+    border-width: 0px;
+    border-radius: 4px;
     background-color: #554AF0;
+    color: white;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 /* Потом специальные правила по страничкам */
